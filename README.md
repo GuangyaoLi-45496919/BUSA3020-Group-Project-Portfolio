@@ -1,2 +1,2 @@
-# BUSA3020-Group-Project-Portfolio
+# BUSA3020-Group-Guangyao_Li
 In order to reduce risk of customer defaults and also maintain profit for the bank, this group report is to estimate the credibility of loan applicants by using statistical models. As a result, we achieved an f-beta score of 0.91 for out-of-sample predictions on Kaggle, which can support our client to predict accurately with a significant degree towards creditworthiness of future loan applicants and assist in better decision making to maximise profits. In addition, my part of the project is to cleanse the dataset by reorganising variables, visualising data, building models (LR & RF) and testing model performance by using Python.
